@@ -6,17 +6,25 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
   <meta name="description" content="Description">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
-  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css">
+  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/buble.css">
+  <link rel="shortcut icon" href="icon.png" type="image/png">
 </head>
 <body>
   <div id="app"></div>
   <script>
     window.$docsify = {
       name: 'WelcomeJS',
-      repo: 'edapm/welcomejs'
+      repo: 'edapm/welcomejs',
+      coverpage: true,
+      logo: '/logo.png',
+      onlyCover: false,
+      notFoundPage: true,
+      themeColor: '#F7E018'
     }
   </script>
   <!-- Docsify v4 -->
   <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/emoji.min.js"></script>
 </body>
 </html>
