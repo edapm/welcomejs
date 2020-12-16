@@ -1,0 +1,3 @@
+# WelcomeJS
+
+> An awesome project.
