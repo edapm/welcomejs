@@ -4,9 +4,9 @@
 
 Welcome to the wonderful world of JavaScript! We hope you enjoy learning all about the language that makes up the web!
 
-- [Beginners ⭐](#beginners)
-- [Intermediate ⭐ ⭐](#intermediate)
-- [Advanced ⭐ ⭐ ⭐](#advanced)
+- [Beginners ⭐](#beginners-)
+- [Intermediate ⭐ ⭐](#intermediate--)
+- [Advanced ⭐ ⭐ ⭐](#advanced---)
 - [License](#license)
 - [Discussions](https://github.com/edapm/welcomejs/discussions)
 
