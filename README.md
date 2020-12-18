@@ -13,6 +13,7 @@ Welcome to the wonderful world of JavaScript! We hope you enjoy learning all abo
 - [Beginners ⭐](#beginners)
 - [Intermediate ⭐ ⭐](#intermediate)
 - [Advanced ⭐ ⭐ ⭐](#advanced)
+- [Contributing to Open Source](#contributing-to-open-source)
 - [License](#license)
 - [Discussions](https://github.com/edapm/welcomejs/discussions)
 
@@ -23,10 +24,10 @@ So you're started out in the JS world? You've come to the right place! Check out
 
 ### Course Providers (Relevant to all three skill levels)
 
-- [Udacity](https://udacity.com) - some good free and paid courses ($ - $$$)
-- [Frontend Masters](https://frontendmasters.com) - great content from leading experts in the field ($$$)
-- [Codecademy](https://codecademy.com) - good step-by-step beginner courses, with an integrated enivronment to help you code with just your browser ($ - $$)
-- [w3Schools](https://w3schools.com) - free content and an IDE to try out code from the maintainers of the internet themselves ($)
+- [Udacity](https://udacity.com) - some good free and paid courses
+- [Frontend Masters](https://frontendmasters.com) - great content from leading experts in the field
+- [Codecademy](https://codecademy.com) - good step-by-step beginner courses, with an integrated enivronment to help you code with just your browser
+- [w3Schools](https://w3schools.com) - free content and an IDE to try out code from the maintainers of the internet themselves
 
 > **!Tip** Also check out the HTML/CSS courses, as these will become useful when you started building apps/websites.
 
@@ -37,7 +38,9 @@ So you're started out in the JS world? You've come to the right place! Check out
 ## Intermediate
 ⭐⭐
 
-After learning vanilla JavaScript, the next thing to learn about is frameworks. There are many, but the main four are Angular, React, Vue and Ember.
+After learning vanilla JavaScript, the next thing to learn about is frameworks. There are many, but the main four are Angular, React, Vue and Ember. 
+
+> *Frontend Masters (mentioned above) has a really great React course by Brain Holt that I've personally done and can recommend - find it [here](https://frontendmasters.com/courses/complete-react-v5)*
 
 ### Framework Websites and Official Docs
 
@@ -76,6 +79,30 @@ Continue learning the tools of the trade by building full-stack web apps, and th
 - [Udacity](https://udacity.com) - Mentioned before, has some good interview help videos
 - [InterviewCake](https://www.interviewcake.com) - Programming interview question examples and guidance
 
-## License
+## Contributing to Open Source
 
-[&copy; 2020 Ed Mason & Contributors](https://github.com/edapm/welcomejs/blob/main/LICENSE)
+To get started with Open Source, the best thing is to know a bit (even if it's the smallest bit!) of JavaScript (or any language), and to be familiar with Git. Then you can signup for GitHub, and start contributing!
+
+
+
+- Check out MunGell's list of good projects to contribute to - [here](https://github.com/MunGell/awesome-for-beginners#javascript)
+- Or check out [First Contributions](https://github.com/firstcontributions/first-contributions)
+
+---
+
+- If you need to learn Git/GitHub, try Jessica Lord's [Git It!](https://github.com/jlord/git-it-electron)
+- Or, head to Atlassian's website for their [guide](https://www.atlassian.com/git)
+- And GitHub's docs are helpful as well - [here](https://docs.github.com)
+
+## License & Thanks
+
+&copy; 2020 Ed Mason & Contributors - [License](https://github.com/edapm/welcomejs/blob/main/LICENSE)
+
+### Thanks to:
+
+- [Docsify](https://docsify.js.org) for the SSG which we use for our website
+- [JS.org](https://js.org) for the free domain
+- [npm](https://npmjs.com) for an awesome JavaScript package manager
+- [GitHub](https://github.com) for the awesome code-hosting service
+- The JS Community for just being awesome
+- **YOU** for reading this! :-)
