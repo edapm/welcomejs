@@ -1,16 +1,23 @@
 ![logo](logo.png)
 
+![badge](https://img.shields.io/badge/welcome-js-F7E018?style=flat-square)
+![GitHub](https://img.shields.io/github/license/edapm/welcomejs?color=F7E018&style=flat-square)
+![GitHub last commit](https://img.shields.io/github/last-commit/edapm/welcomejs?color=F7E018&label=updated&style=flat-square)
+![GitHub repo size](https://img.shields.io/github/repo-size/edapm/welcomejs?color=F7E018&style=flat-square)
+![GitHub Repo stars](https://img.shields.io/github/stars/edapm/welcomejs?color=F7E018&style=flat-square)
+
 ## Get Started
 
 Welcome to the wonderful world of JavaScript! We hope you enjoy learning all about the language that makes up the web!
 
-- [Beginners ⭐](#beginners-)
-- [Intermediate ⭐ ⭐](#intermediate--)
-- [Advanced ⭐ ⭐ ⭐](#advanced---)
+- [Beginners ⭐](#beginners)
+- [Intermediate ⭐ ⭐](#intermediate)
+- [Advanced ⭐ ⭐ ⭐](#advanced)
 - [License](#license)
 - [Discussions](https://github.com/edapm/welcomejs/discussions)
 
-## Beginners ⭐
+## Beginners
+⭐
 
 So you're started out in the JS world? You've come to the right place! Check out our links and tips below:
 
@@ -27,7 +34,8 @@ So you're started out in the JS world? You've come to the right place! Check out
 
 - [Kyle Simpson's *You don't Know JS* series](https://github.com/getify/You-Dont-Know-JS) - A series of books to get you started with JS, published free on GitHub - need I say more?
 
-## Intermediate ⭐ ⭐
+## Intermediate
+⭐⭐
 
 After learning vanilla JavaScript, the next thing to learn about is frameworks. There are many, but the main four are Angular, React, Vue and Ember.
 
@@ -53,7 +61,8 @@ Frameworks such as Next and Nuxt render a page every time it is requested (Unlik
 - [Next](https://nextjs.org)
 - [Nuxt](https://nuxtjs.org)
 
-## Advanced ⭐ ⭐ ⭐
+## Advanced
+⭐⭐⭐
 
 Continue learning the tools of the trade by building full-stack web apps, and then apply for a job!
 
