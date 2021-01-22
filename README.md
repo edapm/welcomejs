@@ -44,25 +44,34 @@ After learning vanilla JavaScript, the next thing to learn about is frameworks. 
 
 ### Framework Websites and Official Docs
 
-- [Angular](https://angular.io)
-- [React](https://reactjs.org)
-- [Vue](https://vuejs.org)
-- [Ember](https://emberjs.com)
+- [Angular](https://angular.io) - a popular framework made by Google
+- [React](https://reactjs.org) - smaller than Angular, a popular library built at Facebook
+- [Vue](https://vuejs.org) - an alternative framework, very fast
+- [Ember](https://emberjs.com) - a framework for "ambitious developers"
 
 ### Static Site Generators (SSGs)
 
 Quickly build static sites from Markdown using a static site generator. Popular ones include Gatsby, Eleventy, Gridsome, Hugo and Jekyll.
 
-- [Gatsby](https://gatsbyjs.com)
-- [Eleventy](https://11ty.dev)
-- [Gridsome](https://gridsome.org)
+- [Gatsby](https://gatsbyjs.com) - a React-based SSG, one of the most popular
+- [Eleventy](https://11ty.dev) - a general JS-based SSG
+- [Gridsome](https://gridsome.org) - a Vue- and API-based SSG
 
 ### Server Side Rendering
 
-Frameworks such as Next and Nuxt render a page every time it is requested (Unlike SSGs)
+Frameworks such as Next and Nuxt which render pages server-side before sending them to the client
 
-- [Next](https://nextjs.org)
-- [Nuxt](https://nuxtjs.org)
+- [Next](https://nextjs.org) - a React-based framework
+- [Nuxt](https://nuxtjs.org) - a Vue-based framework
+
+### JAMStack Hosting Services
+
+Quickly deploy static sites and apps
+
+- [Netlify](https://netlify.com)
+- [Vercel](https://vercel.com)
+- [GitHub Pages](https://pages.github.com)
+- [Firebase Hosting](https://firebase.google.com/products/hosting)
 
 ## Advanced
 ⭐⭐⭐
@@ -73,6 +82,15 @@ Continue learning the tools of the trade by building full-stack web apps, and th
 
 - [NodeJS](https://nodejs.org) - For server-side JavaScript
 - [Deno](https://deno.land) - A (new) NodeJS alternative (written by the same guy who wrote Node!)
+
+### API Services
+
+Services to help you handle data and content without having to code a backend
+
+- [Strapi](https://strapi.io)
+- [Contentful](https://contentful.com)
+- [Firebase](https://firebase.google.com)
+- [Sanity](https://sanity.io)
 
 ### Helpful Job Prep Links
 
