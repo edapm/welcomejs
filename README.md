@@ -80,6 +80,8 @@ Continue learning the tools of the trade by building full-stack web apps, and th
 
 ### Full-Stack Development
 
+If you want to built a full-stack web application in JavaScript, try these!
+
 - [NodeJS](https://nodejs.org) - For server-side JavaScript
 - [Deno](https://deno.land) - A (new) NodeJS alternative (written by the same guy who wrote Node!)
 
@@ -114,9 +116,9 @@ To get started with Open Source, the best thing is to know a bit (even if it's t
 
 ## License & Thanks
 
-&copy; 2020 Ed Mason & Contributors - [License](https://github.com/edapm/welcomejs/blob/main/LICENSE)
+&copy; 2020-2021 Ed Mason & Contributors - [License](https://github.com/edapm/welcomejs/blob/main/LICENSE)
 
-### Thanks to:
+### Thank Yous
 
 - [Docsify](https://docsify.js.org) for the SSG which we use for our website
 - [JS.org](https://js.org) for the free domain
