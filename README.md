@@ -3,7 +3,6 @@
 ![badge](https://img.shields.io/badge/welcome-js-F7E018?style=flat-square)
 ![GitHub](https://img.shields.io/github/license/edapm/welcomejs?color=F7E018&style=flat-square)
 ![GitHub last commit](https://img.shields.io/github/last-commit/edapm/welcomejs?color=F7E018&label=updated&style=flat-square)
-![GitHub repo size](https://img.shields.io/github/repo-size/edapm/welcomejs?color=F7E018&style=flat-square)
 ![GitHub Repo stars](https://img.shields.io/github/stars/edapm/welcomejs?color=F7E018&style=flat-square)
 
 ## Get Started
@@ -83,7 +82,7 @@ Continue learning the tools of the trade by building full-stack web apps, and th
 If you want to built a full-stack web application in JavaScript, try these!
 
 - [NodeJS](https://nodejs.org) - For server-side JavaScript
-- [Deno](https://deno.land) - A (new) NodeJS alternative (written by the same guy who wrote Node!)
+- [Go](https://golang.org) - Not strictly JavaScript, but a popular language to write APIs in
 
 ### API Services
 
